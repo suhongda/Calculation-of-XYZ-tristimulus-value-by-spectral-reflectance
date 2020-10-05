@@ -1,3 +1,4 @@
+数据引用自http://blog.sina.com.cn/s/blog_4b892b790100gw1h.html
 10°视场时为CIE1964XYZ系统的标准观察者
 %  CIE 1931 XYZ 10度视场 （即CIE 1964 补充系统）系统的数据，
 %  第一列是波长
