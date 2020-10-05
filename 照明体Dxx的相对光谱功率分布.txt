@@ -1,3 +1,4 @@
+数据引用自http://blog.sina.com.cn/s/blog_4b892b790102vadn.html
 照明体Dxx的相对光谱功率分布，
 按照CIE 15的方法计算
 参数ct 是相关色温，在4000K～25000K
