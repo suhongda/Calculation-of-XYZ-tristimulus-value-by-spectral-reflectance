@@ -1,3 +1,4 @@
+数据引用自http://blog.sina.com.cn/s/blog_4b892b790100h58m.html
 2°视场时为CIE1931XYZ系统的标准观察者
 第一列是波长
 第二列是X刺激值
