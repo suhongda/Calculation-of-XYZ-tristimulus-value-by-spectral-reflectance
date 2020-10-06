@@ -886,7 +886,6 @@ Dxx1 = np.array([[380, 63.4, 38.5, 3],
  [775, 66.8, -10.8, 7.1],
  [780, 65, -10.4, 6.8]])
 
-
 def Dxx(cct):
  if cct <= 7000 and cct >= 4000:
   Xd = -4.6070 * (10 ** 9) / (cct ** 3) + 2.9678 * (10 ** 6) / (cct ** 2) + (99.11 / cct) + 0.244063
@@ -919,9 +918,4 @@ def Field(Oq, xyz, d):
  for aa in range(0,401,d):
   dhg.append(o[aa])
  return dhg
-
-
-# print (Dxx1.shape[0])#统计行数
-# print (Dxx1.shape[1])#统计列数
-# print((Dxx1[Dxx1.shape[0]-1,0]-Dxx1[0,0])/5)
 
